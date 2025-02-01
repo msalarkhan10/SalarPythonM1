@@ -1,0 +1,7 @@
+print("Hello World!")
+print("Hi what is your name?")
+a=input()
+print("Ok your name is",a)
+print("What is your birthday, write it in this format DD/MM/YYYY")
+b=input()
+print("Your birthday is ",b)
